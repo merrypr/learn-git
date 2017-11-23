@@ -1,7 +1,9 @@
 # learn-git
 
 Shared description:
-Aloha
+Aloha there!
+
+(LE by kyooriouskoala)
 
 By kyoorious:
 

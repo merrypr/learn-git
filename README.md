@@ -8,3 +8,4 @@ By kyoorious:
 By merrypr:
 
 #1 Aloha
+#2 Ni hao

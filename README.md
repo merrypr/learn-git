@@ -1,5 +1,8 @@
 # learn-git
 
+Shared description:
+Aloha
+
 By kyoorious:
 
 #1 Aloha
